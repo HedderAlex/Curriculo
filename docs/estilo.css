@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(214, 213, 213);
+}
+.limenu{
+    list-style: none;
+    display: inline;
+    margin: 0% 5.8% 0% 5.8%;
+}
+nav{
+    background-color: black;
+    padding: 1%;
+}
+.nome{
+    text-align: center;
+}
+.links{
+    color: aliceblue;
+    text-decoration: none;
+}
+.linksb{
+    color: blue;
+    text-decoration: none;
+}
+.linksb:hover{
+    color: black;
+}
+.certificado{
+    text-align: center;
+}
+.certificados{
+    margin: 1%;
+    max-width: 200px;
+}
+.foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 15%;
+    border-radius: 5px;
+}
