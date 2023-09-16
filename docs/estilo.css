@@ -27,6 +27,8 @@ nav{
 }
 .certificado{
     text-align: center;
+    border-bottom-color:black ;
+    border-bottom-style: solid;
 }
 .certificados{
     margin: 1%;
@@ -38,4 +40,15 @@ nav{
     margin-right: auto;
     max-width: 15%;
     border-radius: 5px;
+}
+.certi{
+    margin: 0% 38.5% 0% 38.5%;
+}
+.bordinhapreta{
+    border-bottom-style: solid;
+    border-bottom-color: black;
+}
+#voltar{
+    font-size: larger;
+    text-align: center;
 }
